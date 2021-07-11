@@ -17,8 +17,6 @@ const RodrigoRoque = {
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/HTML)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=for-the-badge)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel692a&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel692a&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
 [![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://https://www.linkedin.com/in/rodrigo-roque98/)
