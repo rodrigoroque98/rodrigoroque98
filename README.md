@@ -1,5 +1,4 @@
-Hello everyone, my name is Rodrigo, I'm a software developer located in Argentina, I'm passionate about the world of technology, especially web development .
-I'm currently studing IT and frontend architecture technologies. and making personal proyects in both local and national software communities.
+
 ```javascript
 const RodrigoRoque = {
   fullName: 'Rodrigo Agustin Roque',
