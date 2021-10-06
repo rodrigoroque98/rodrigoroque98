@@ -15,8 +15,7 @@ const RodrigoRoque = {
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/home)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/HTML)
-![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=for-the-badge)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
+
 
 ## Social Media
 [![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://https://www.linkedin.com/in/rodrigo-roque98/)
