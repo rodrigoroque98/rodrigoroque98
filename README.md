@@ -3,7 +3,7 @@
 const RodrigoRoque = {
   fullName: 'Rodrigo Agustin Roque',
   age: 23,
-  country: 'ARG',
+  country: 'Argentina',
   user: 'rodrigoroque98',
   birthday: '06/01/1998',
 }
