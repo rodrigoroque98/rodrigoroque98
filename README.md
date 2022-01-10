@@ -2,7 +2,7 @@
 ```javascript
 const RodrigoRoque = {
   fullName: 'Rodrigo Agustin Roque',
-  age: 23,
+  age: 24,
   country: 'Argentina',
   user: 'rodrigoroque98',
   birthday: '06/01/1998',
